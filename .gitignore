@@ -161,3 +161,8 @@ cython_debug/
 
 # Excel files
 *xlsx
+
+# Data files
+fbref_data/
+votes/
+calendar/
